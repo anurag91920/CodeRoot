@@ -41,5 +41,21 @@
 
 ---
 
-## 📁 Folder Structure
+## 🧠 Future Enhancements
+
+🌐 Real-time code editor with collaboration
+
+📂 Git-like file and directory viewer
+
+📈 Developer analytics dashboard
+
+🧑‍🤝‍🧑 Organization and team support
+
+🌙 Dark/light theme toggle
+
+🧑 Author
+
+Anurag Chaurasiya
+📧 Email: anurag9120959628@gmail.com
+🌐 Portfolio: https://port-folio-one-red.vercel.app
 
